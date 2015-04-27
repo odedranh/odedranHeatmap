@@ -1,0 +1,16 @@
+Server is listening on Port 8119
+GEETING DATA FROM:-http://52.10.62.166:8282/InCSE1/LocationAE/Things?from=http:52.10.62.166:10000&requestIdentifier=12345&Content-Type=application/json&Accept=application/json&resultContent=5
+{"output":{"responseStatusCode":2002,"ResourceOutput":[{"resourceType":"container","resourceID":"Things","Attributes":[{"attributeName":"resourceID","attributeValue":"1283870035"},{"attributeName":"resourceName","attributeValue":"Things"},{"attributeName":"resourceType","attributeValue":"container"},{"attributeName":"labels","attributeValue":""},{"attributeName":"parentID","attributeValue":"InCSE1/LocationAE"},{"attributeName":"stateTag","attributeValue":"1"},{"attributeName":"currentByteSize","attributeValue":"0"},{"attributeName":"currentNrofInstance","attributeValue":"0"},{"attributeName":"child-container List","attributeValue":"[InCSE1/LocationAE/Things/D0C061B0-2BF2-46F3-9F1E-4ED7DD0F340A]"}]}]}}
+"[InCSE1/LocationAE/Things/D0C061B0-2BF2-46F3-9F1E-4ED7DD0F340A]"
+
+ URL GRABBED for Device 0 : InCSE1/LocationAE/Things/D0C061B0-2BF2-46F3-9F1E-4ED7DD0F340A
+InCSE1/LocationAE/Things/D0C061B0-2BF2-46F3-9F1E-4ED7DD0F340A
+"001"
+3
+3 'InCSE1/LocationAE/Things/D0C061B0-2BF2-46F3-9F1E-4ED7DD0F340A'
+
+ GOT DEVICE DATA FOR---undefined
+
+ RAW DATA: 
+{"output":{"responseCode":"Succussfully retrieve the latest contentInstance of this container","responseStatusCode":2002,"ResourceOutput":[{"resourceType":"contentInstance(latest-allAttributes)","resourceID":"30058","Attributes":[{"attributeName":"resourceID","attributeValue":"95626722"},{"attributeName":"resourceName","attributeValue":"30058"},{"attributeName":"resourceType","attributeValue":"class org.opendaylight.yang.gen.v1.http.cisco.com.ns.onem2m.comatt.rev140727.ContentInstance"},{"attributeName":"creationTime","attributeValue":"25-04-15T19:56:75"},{"attributeName":"lastModifiedTime","attributeValue":"25-04-15T19:56:75"},{"attributeName":"parentID","attributeValue":"InCSE1/LocationAE/Things/D0C061B0-2BF2-46F3-9F1E-4ED7DD0F340A/LocGPS"},{"attributeName":"stateTag","attributeValue":"12"},{"attributeName":"content","attributeValue":"42.349070,-71.106394"}]}]}}
+{ data: 'Page Refreshed' }

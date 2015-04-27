@@ -1,0 +1,27 @@
+Server is listening on Port 8119
+GEETING DATA FROM:-http://52.10.62.166:8282/InCSE1/LocationAE/Things?from=http:52.10.62.166:10000&requestIdentifier=12345&Content-Type=application/json&Accept=application/json&resultContent=5
+{"output":{"responseStatusCode":2002,"ResourceOutput":[{"resourceType":"container","resourceID":"Things","Attributes":[{"attributeName":"resourceID","attributeValue":"1283870035"},{"attributeName":"resourceName","attributeValue":"Things"},{"attributeName":"resourceType","attributeValue":"container"},{"attributeName":"labels","attributeValue":""},{"attributeName":"parentID","attributeValue":"InCSE1/LocationAE"},{"attributeName":"stateTag","attributeValue":"3"},{"attributeName":"currentByteSize","attributeValue":"0"},{"attributeName":"currentNrofInstance","attributeValue":"0"},{"attributeName":"child-container List","attributeValue":"[InCSE1/LocationAE/Things/2954A1E2-13FB-4A7C-B89D-6478322525E1, InCSE1/LocationAE/Things/D0C061B0-2BF2-46F3-9F1E-4ED7DD0F340A]"},{"attributeName":"child-subscription List","attributeValue":"[InCSE1/LocationAE/Things/2954A1E2-13FB-4A7C-B89D-6478322525E1, InCSE1/LocationAE/Things/D0C061B0-2BF2-46F3-9F1E-4ED7DD0F340A]"}]}]}}
+"[InCSE1/LocationAE/Things/2954A1E2-13FB-4A7C-B89D-6478322525E1, InCSE1/LocationAE/Things/D0C061B0-2BF2-46F3-9F1E-4ED7DD0F340A]"
+
+ URL GRABBED for Device 0 : InCSE1/LocationAE/Things/2954A1E2-13FB-4A7C-B89D-6478322525E1
+InCSE1/LocationAE/Things/2954A1E2-13FB-4A7C-B89D-6478322525E1
+
+ URL GRABBED for Device 1 : InCSE1/LocationAE/Things/D0C061B0-2BF2-46F3-9F1E-4ED7DD0F340A
+InCSE1/LocationAE/Things/D0C061B0-2BF2-46F3-9F1E-4ED7DD0F340A
+"001"
+3
+3 'InCSE1/LocationAE/Things/D0C061B0-2BF2-46F3-9F1E-4ED7DD0F340A'
+"001"
+3
+3 'InCSE1/LocationAE/Things/2954A1E2-13FB-4A7C-B89D-6478322525E1'
+
+ GOT DEVICE DATA FOR---D0C061B0-2BF2-46F3-9F1E-4ED7DD0F340A
+
+ RAW DATA: 
+{"output":{"responseCode":"Succussfully retrieve the latest contentInstance of this container","responseStatusCode":2002,"ResourceOutput":[{"resourceType":"contentInstance(latest-allAttributes)","resourceID":"32042","Attributes":[{"attributeName":"resourceID","attributeValue":"95567177"},{"attributeName":"resourceName","attributeValue":"32042"},{"attributeName":"resourceType","attributeValue":"class org.opendaylight.yang.gen.v1.http.cisco.com.ns.onem2m.comatt.rev140727.ContentInstance"},{"attributeName":"creationTime","attributeValue":"26-04-15T19:46:732"},{"attributeName":"lastModifiedTime","attributeValue":"26-04-15T19:46:732"},{"attributeName":"parentID","attributeValue":"InCSE1/LocationAE/Things/D0C061B0-2BF2-46F3-9F1E-4ED7DD0F340A/LocGPS"},{"attributeName":"stateTag","attributeValue":"380"},{"attributeName":"content","attributeValue":"42.349076,-71.106414"}]}]}}
+
+ GOT DEVICE DATA FOR---2954A1E2-13FB-4A7C-B89D-6478322525E1
+
+ RAW DATA: 
+{"output":{"responseCode":"Succussfully retrieve the latest contentInstance of this container","responseStatusCode":2002,"ResourceOutput":[{"resourceType":"contentInstance(latest-allAttributes)","resourceID":"32065","Attributes":[{"attributeName":"resourceID","attributeValue":"651051531"},{"attributeName":"resourceName","attributeValue":"32065"},{"attributeName":"resourceType","attributeValue":"class org.opendaylight.yang.gen.v1.http.cisco.com.ns.onem2m.comatt.rev140727.ContentInstance"},{"attributeName":"creationTime","attributeValue":"26-04-15T23:08:264"},{"attributeName":"lastModifiedTime","attributeValue":"26-04-15T23:08:264"},{"attributeName":"parentID","attributeValue":"InCSE1/LocationAE/Things/2954A1E2-13FB-4A7C-B89D-6478322525E1/LocGPS"},{"attributeName":"stateTag","attributeValue":"175"},{"attributeName":"content","attributeValue":"42.349049,-71.106393"}]}]}}
+{ data: 'Page Refreshed' }

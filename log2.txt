@@ -1,0 +1,18 @@
+----------------------STATUS UPDATE : DEVICE MOVED------------------- 
+{"resourceType":"container","resourceID":"Things","Attributes":
+
+[{"attributeName":"resourceID","attributeValue":"1917541406"},
+
+{"attributeName":"resourceName","attributeValue":"Things"},
+
+{"attributeName":"resourceType","attributeValue":"container"},
+
+{"attributeName":"labels","attributeValue":""},
+
+{"attributeName":"parentID","attributeValue":"InCSE1/NehalAE"},
+
+{"attributeName":"stateTag","attributeValue":"10"},
+
+{"attributeName":"currentByteSize","attributeValue":"888"},
+
+{"attributeName":"currentNrofInstance","attributeValue":"1"}]}
