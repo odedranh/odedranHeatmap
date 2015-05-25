@@ -1,0 +1,12 @@
+{
+  "from":"http:52.25.30.141:10000",
+  "requestIdentifier":"12345",
+  "resourceType":"subscription",
+  "content":
+ 	{		
+		"labels":"",
+            	"resourceName":"sub",
+     		"notificationURI" : "http:52.25.30.141//:8119",
+    		"notificationContentType" : "wholeResource"
+    }
+}
